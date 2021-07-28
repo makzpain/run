@@ -1,0 +1,99 @@
+<!ENTITY openFireFTP "Відкрити посилання у FireFTP">
+<!ENTITY viewFireFTP "Переглянути цю сторінку у FireFTP">
+<!ENTITY accountlist.label "(Виберіть запис)">
+<!ENTITY edit.label "Редагувати...">
+<!ENTITY abort.label "Перервати">
+<!ENTITY logtab.label "Вхід/Черга">
+<!ENTITY ltab.label "Вхід">
+<!ENTITY qtab.label "Черга">
+<!ENTITY search.access "П">
+<!ENTITY logbutton.access "В">
+<!ENTITY advanced.label "Налаштування">
+<!ENTITY search.label "Пошук/фільтр">
+<!ENTITY diff.label "Порівняти теки">
+<!ENTITY recdiff.label "Синхронізувати теки та їх вкладені теки">
+<!ENTITY custom.label "Руками">
+<!ENTITY import.label "Імпортувати...">
+<!ENTITY export.label "Експортувати...">
+<!ENTITY preferencestab.label "Налаштування...">
+<!ENTITY diff.access "S">
+<!ENTITY recdiff.access "D">
+<!ENTITY custom.access "C">
+<!ENTITY import.access "I">
+<!ENTITY export.access "x">
+<!ENTITY prefbutton.access "O">
+<!ENTITY help.label "Довідка">
+<!ENTITY help.url "http://fireftp.mozdev.org/help.html">
+<!ENTITY parentdir.tip "Змінити батьківську теку">
+<!ENTITY refresh.tip "Оновити теку">
+<!ENTITY localpath.tip "Локальна адреса">
+<!ENTITY remotepath.tip "Мережева адреса">
+<!ENTITY browse.label "Шукати">
+<!ENTITY change.label "Змінити">
+<!ENTITY name.label "Назва">
+<!ENTITY size.label "Розмір">
+<!ENTITY date.label "Дата">
+<!ENTITY type.label "Тип">
+<!ENTITY attr.label "Властивості">
+<!ENTITY source.label "Джерело">
+<!ENTITY dest.label "Місце призначення">
+<!ENTITY bytes.label "Байти">
+<!ENTITY status.label "Статус">
+<!ENTITY retry.label "Повторити">
+<!ENTITY cancel.label "Скасувати">
+<!ENTITY cancelAll.label "Скасувати усе">
+<!ENTITY type.tip "Змінити метод передачі (радимо автоматичний)">
+<!ENTITY bytes.tip "Скопійовано байт / Всього байт">
+<!ENTITY timeela.tip "Пройшло">
+<!ENTITY timerem.tip "Залишилось">
+<!ENTITY download.tip "Швидкість завантаження">
+<!ENTITY percent.tip "Завершено (&#37;)">
+<!ENTITY auto.label "Автоматично">
+<!ENTITY binary.label "Бінарний">
+<!ENTITY ascii.label "ASCII">
+<!ENTITY openContaining.label "Відкрити теку">
+<!ENTITY upload.label "Передати">
+<!ENTITY download.label "Завантажити">
+<!ENTITY open.label "Відкрити">
+<!ENTITY openwith.label "Відкрити за допомогою...">
+<!ENTITY extractHere.label "Витягнути сюди">
+<!ENTITY extractTo.label "Витягнути у теку">
+<!ENTITY viewweb.label "Переглянути у Веб">
+<!ENTITY copyUrl.label "Копіювати адресу">
+<!ENTITY copyUrlLogin.label "FTP із входом">
+<!ENTITY cut.label "Вирізати">
+<!ENTITY copy.label "Скопіювати">
+<!ENTITY paste.label "Вставити">
+<!ENTITY makedir.label "Створити теку">
+<!ENTITY makefile.label "Створити файл">
+<!ENTITY symlink.label "Створити Symlink">
+<!ENTITY delete.label "Видалити">
+<!ENTITY rename.label "Перейменувати">
+<!ENTITY properties.label "Властивості">
+<!ENTITY rproperties.label "Властивості (разом із змістом)">
+<!ENTITY searchButton.label "Пошук">
+<!ENTITY searchLocal.label "Локальний">
+<!ENTITY searchRemote.label "Віддалений">
+<!ENTITY searchOptions.label "Параметри">
+<!ENTITY searchFrom.label "Від:">
+<!ENTITY searchTo.label "До:">
+<!ENTITY searchSubdir.label "Переглянути у підтеці">
+<!ENTITY searchMatch.label "Враховувати">
+<!ENTITY searchRegexp.label "Сталі вирази">
+<!ENTITY searchDates.label "Визначити дати">
+<!ENTITY searchSubdir.access "s">
+<!ENTITY searchMatch.access "c">
+<!ENTITY searchRegexp.access "x">
+<!ENTITY searchDates.access "d">
+<!ENTITY edit.access "E">
+<!ENTITY abort.access "A">
+<!ENTITY advanced.access "T">
+<!ENTITY helpbutton.access "H">
+<!ENTITY browsebutton.access "B">
+<!ENTITY changebutton.access "n">
+<!ENTITY searchButton.access "S">
+<!ENTITY searchLocal.access "L">
+<!ENTITY searchRemote.access "R">
+<!ENTITY searchOptions.access "O">
+<!ENTITY mozilla.quote "І <html:em>ось</html:em> із <html:em>темряви</html:em> вони появились: володар вірних аби допомогти відродженому <html:em>звіру</html:em> повернути собі землю. Разом вони були <html:em>могутні</html:em> і повідомили благу <html:em>вість</html:em> про його повернення. Один за одним невірні навертались і серця їх <html:em>палали</html:em>.">
+<!ENTITY mozilla.from "Із <html:strong>книги Мозілли</html:strong>, 8:2">
